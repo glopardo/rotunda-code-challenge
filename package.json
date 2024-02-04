@@ -1,0 +1,21 @@
+{
+  "name": "rotunda-code-challenge",
+  "version": "1.0.0",
+  "description": "Rotunda code challenges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glopardo/rotunda-code-challenge.git"
+  },
+  "keywords": [
+    "rotunda",
+    "code",
+    "challenge"
+  ],
+  "author": "Gabriel Lopardo",
+  "homepage": "https://github.com/glopardo/rotunda-code-challenge#readme"
+}
