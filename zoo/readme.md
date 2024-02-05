@@ -12,5 +12,5 @@ The tiger's speak function behaves similarly but with a different sound:
 Please write logic and classes to support our zoo in JavaScript (using whatever class model you like) with attention to code structure and readability.
 
 ## Solution
-Inside `classes` directory there are all the class implementation (base class and the ones that extends from it).
+In `.src/classes` directory there are all the class implementation (base class and the ones that extends from it).
 `index.js` shows some examples of the usage of the clases. To test it out using node, run `node index.js` in `/src`.
