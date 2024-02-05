@@ -8,4 +8,4 @@ This function is called each time there is an error and appends the error to the
 3. We never want to receive more than one email notification per minute.
 
 ## Solution
-The `/src/index.js` file solves this exercise using pseudocode in the initial comments and then a brief example using javascript. The implementation of `sendEmailAlert` and rest of `logError` are out of the scope of this resolution.
+The [index](./src/index.js) file solves this exercise using pseudocode in the initial comments and then a brief example using javascript. The implementation of `sendEmailAlert` and rest of `logError` are out of the scope of this resolution.
