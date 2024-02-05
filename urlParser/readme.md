@@ -17,5 +17,5 @@ Given this example url format string and url instance, the hash we want that map
 Please implement a solution to this problem in JavaScript (or your programming language of choice, if applying for a DevOps position) with attention to code structure and readability. Feel free to use low-level libraries like Lodash.
 
 ## Solution
-The `parseUrl` exported function in `urlParser.js` implements the solution for this exercise. The `index.js` file calls `parseUrl` function and logs its result.
+The `parseUrl` exported function in [urlParser](./src/urlParser.js) implements the solution for this exercise. The [index](./src/index.js) file calls `parseUrl` function and logs its result.
 If you test this using Node you can run `node index.js` inside `/src` to see the output in the console.
